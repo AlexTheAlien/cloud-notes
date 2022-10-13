@@ -45,7 +45,8 @@ There are two SKUs for the Load Balancer:
 
 ## Inbound and outbound rules
 You can specify rules for inbound and outbound traffic flow for your load balancer. Port forwarding and load
-balancing can be done for specific TCP and UDP protocols, but not all. 
+balancing can be done for specific TCP and UDP protocols, but not all.
+
 Various notes:
 - Backend pools cannot consist of Private Endpoints.
 - Outbound traffic from a backend VM cannot go to the frontend of an internal load balancer.
