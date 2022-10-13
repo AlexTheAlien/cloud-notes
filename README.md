@@ -1,5 +1,7 @@
 # Cloud Notes
 
+Most of these are incomplete notes. I will update them as time goes on.
+
 ## Table of Contents
 - [Comparing NoSQL and Relational Databases](/Comparing%20NoSQL%20and%20Relational%20Databases.md)
 - [Study Guides for Cloud Certifications](/Certifications/Study%20Guides)
